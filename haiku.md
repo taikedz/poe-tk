@@ -11,8 +11,12 @@ Mostly I follow the format rules of
 
 I do not title them - as a result of the guidelines to structure, using a title would hamper the ability to appreciate the flow.
 
+<hr>
+
+*8th May 2017*
+
 > A sunny morning
-> Not a single cloud in sight
-> I commute to work
 >
-> -- 2017-05-08
+> Not a single cloud in sight
+>
+> I commute to work
